@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+.content h1 {
+    font-size: 50px;
+}
+.content {
+    margin: 0 auto;
+    line-height: 1.4rem;
+    max-width: 768px;
+    
+}
+
+
+.icon img {
+    height: 150px;
+    width: 150px;
+    border-style:solid;
+    border-radius: 100%;
+}
+.icon {
+    margin: 0 auto;
+    max-width: 768px;
+    
+    
+}
+
+.pp-images {
+    display: flex;
+}
+
+.pp-images img {
+    height: 450px;
+    width: 600px;
+    border: 2px solid black;
+}
+.research-paper-container {
+    left: 50px;
+}
+
+.univ {
+    color:red;
+}
+
+.az {
+    color:blue;
+}
+
